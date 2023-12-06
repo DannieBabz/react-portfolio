@@ -5,7 +5,7 @@ AOS.init();
 const About = () => {
     return ( 
         <>
-            <div className="flex px-2 flex-col md:justify-around lg:flex-row">
+            <div className="flex px-2 flex-col md:justify-around lg:flex-row lg:pb-64">
                 <div className="mt-20 text-xl text-center md:text-3xl md:mt-60" data-aos="fade-right"
      data-aos-offset="500"
      data-aos-easing="ease-in-sine">
