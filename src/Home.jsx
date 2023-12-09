@@ -18,9 +18,7 @@ const Home = () => {
                     
                 </div>
                 <div className="m-auto" data-aos="zoom-in">
-                    <img src="./src/assets/image-victor-glover.png" alt="Me" />
-                    
-                    {/* <Svg /> */}
+                    <img src="/image-victor-glover.png" alt="Me" />
                 </div>
                 <div className="socials text-bgcolor my-auto ml-[98rem] mt-10 fixed z-50 lg:flex" data-aos="fade-up-right">
                 <div className='bg-btnColor w-10 h-48 rounded-full flex flex-col justify-around items-center' >
