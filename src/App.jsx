@@ -39,7 +39,7 @@ function App() {
         <Home />
       </section>
  
-      <section className="h-[100vh] pb-60 lg:h-[120vh] bg-txtColor m-auto lg:pb-64" id='about'>
+      <section className="h-[160vh] pb-60 lg:h-[120vh] bg-txtColor m-auto lg:pb-64" id='about'>
         <About />
       </section>
 
