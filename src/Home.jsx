@@ -7,7 +7,7 @@ import { AiFillMail } from "react-icons/ai";
 const Home = () => {
     return ( 
         <>
-            <div className="flex flex-col justify-between mt-20 md:mt-60 md:flex-row md:pb-16 text-primary">
+            <div className="flex flex-col justify-between mt-20 md:mt-60 md:flex-row text-primary">
                 <div className="w-30 leading-10 md:w-[50rem]" data-aos="fade-right"
      data-aos-offset="500"
      data-aos-easing="ease-in-sine">
@@ -18,7 +18,7 @@ const Home = () => {
                     
                 </div>
                 <div className="m-auto" data-aos="zoom-in">
-                    <img src="/image-victor-glover.png" alt="Me" />
+                    <img src="/20231213_151059-removebg.png" alt="Me" className="w-[35rem] h-[35rem]" />
                 </div>
                 <div className="socials text-bgcolor my-auto ml-[98rem] mt-10 fixed z-50 lg:flex" data-aos="fade-up-right">
                 <div className='bg-btnColor w-10 h-48 rounded-full flex flex-col justify-around items-center' >
