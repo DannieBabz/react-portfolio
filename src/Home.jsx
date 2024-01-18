@@ -25,7 +25,7 @@ const Home = () => {
                 <div className='bg-btnColor w-10 h-48 rounded-full flex flex-col justify-around items-center' >
                 <a href="http://github.com/DannieBabz"><AiFillGithub className="w-8 h-8"/></a>
                 <a href="https://twitter.com/Dannie_Babz"><AiFillTwitterCircle className="w-8 h-8"/></a>
-                <a href="https://www.linkedin.com/in/babatunde-daniel-76786b229/"><AiFillLinkedin className="w-8 h-8"/></a>
+                <a href="https://www.linkedin.com/in/babatunde-daniel"><AiFillLinkedin className="w-8 h-8"/></a>
                 <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpdCrcpCHTBWpbccwNPqZWHrjsSqTfGTbfTTFxXKgSJKQWBCwDRtZtcwwfzsrCNfspmhVq"><AiFillMail className="w-8 h-8"/></a>
                 </div>
                 </div>
